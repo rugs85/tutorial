@@ -6,3 +6,5 @@ init開発ブランチから更新
 
 test
 test
+test
+
